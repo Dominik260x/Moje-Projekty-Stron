@@ -95,6 +95,10 @@ li:nth-child(31) {
     transform: rotate(-15deg) translate(4px);
     animation: neon 2s infinite linear;
 }
+li:nth-child(34) {
+    transform: rotate(-15deg) translate(4px);
+    animation: neon 2s infinite linear;
+}
 @keyframes neon {
     0% {
         opacity: 0;
